@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-<body>
-
 ## 请主动避雷
 
 #### 立场
@@ -20,5 +18,3 @@ title: About
 * Mastodon: [草莓县](https://m.cmx.im/@ritsu) <br>
 * Mastodon: [斯拉闪](https://slashine.onl/@ArcticZPX)
 
-
-</body>

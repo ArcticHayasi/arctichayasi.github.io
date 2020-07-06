@@ -2,6 +2,9 @@
 layout: default
 title: About
 ---
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
 <table style="height: 50px; width: 700px; float: left;" cellspacing="0" cellpadding="50">
 <tbody>
 <tr>
@@ -38,3 +41,6 @@ title: About
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />

@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<table style="height: 50px;" width="440">
+<table style="height: 50px;" width="440" text-align="top">
 <tbody>
 <tr>
 <td style="width: 250px;">

@@ -1,6 +1,6 @@
 # Site settings
-title: 狡兔三窟其一 # 博客名称
-description: "Sample Blog"
+title: 两人对酌山花开 # 博客名称
+description: "狡兔三窟其一"
 url:  "https://arctichayasi.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:

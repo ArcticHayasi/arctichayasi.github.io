@@ -4,6 +4,6 @@ title: About
 ---
 
 <head>
-请主动避雷
+
 
 </head>

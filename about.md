@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<head>
+<body>
 
 ## 请主动避雷
 
@@ -21,4 +21,4 @@ title: About
 * Mastodon: [斯拉闪](https://slashine.onl/@ArcticZPX)
 
 
-</head>
+</body>

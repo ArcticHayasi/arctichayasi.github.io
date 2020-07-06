@@ -3,7 +3,6 @@ layout: default
 title: About
 ---
 
-# 周浦墟的自留地
 ## 请主动避雷
 ### 立场
 * 共产主义极端XX拳

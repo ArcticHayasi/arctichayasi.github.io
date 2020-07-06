@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<table style="height: 50px; float: left; width: 700px;">
+<table style="height: 50px; width: 700px; float: left;" cellspacing="0" cellpadding="50">
 <tbody>
 <tr>
 <td style="width: 276.4px;">

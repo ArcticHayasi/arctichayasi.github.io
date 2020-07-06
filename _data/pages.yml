@@ -2,5 +2,6 @@ pages:
   - {name: 'About', url: 'about.html'}
   - {name: 'Archive', url: 'archive.html'}
   - {name: 'Categories', url: 'categories/'}
+  - {name: 'Write.as', url:'http://wtire.as/ArcticZPX/'}
 
 #   - {name: '外链', url: '外链地址'}

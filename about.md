@@ -17,8 +17,8 @@ title: About
 * Planet: Trans & Unknown
 
 ## 狡兔三窟
-Mastodon: [草莓县](https://m.cmx.im/@ritsu) <br>
-Mastodon: [斯拉闪](https://slashine.onl/@ArcticZPX)
+* Mastodon: [草莓县](https://m.cmx.im/@ritsu) <br>
+* Mastodon: [斯拉闪](https://slashine.onl/@ArcticZPX)
 
 
 </head>
